@@ -1,3 +1,1 @@
-VICTORY PRO THEME
-http://enmudev.com
-
+VICTORY THEME
